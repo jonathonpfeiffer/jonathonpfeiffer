@@ -1,29 +1,25 @@
 # <a href="https://www.linkedin.com/in/jonathon-pfeiffer-912b71142/">Jonathon Pfeiffer</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and enjoy building hands-on projects across vulnerability management, security hardening, threat hunting, and security operations. These projects document practical experience identifying security issues, implementing remediations, and validating security improvements.
 
+Please feel free to explore the projects below and review the technical work, documentation, and remediation processes.
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management & Security Hardening Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jonathonpfeiffer/Vulnerability-Managment-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+- **[Windows 11 DISA STIG Remediation](https://github.com/jonathonpfeiffer/Windows-11-Stig-Remediation)**
+  - Tenable vulnerability scanning and validation
+  - PowerShell remediation of 10 Windows 11 DISA STIG findings
+  - Manual remediation and verification procedures
+  - Before-and-after remediation evidence
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+## 🚨 Threat Hunting & Security Operations
+
+*Threat hunting projects coming soon.*
 
 <hr/>
 
 ## 🤳 Connect With Me
 
-
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://linkedin.com/in/jonathon-pfeiffer-912b71142/
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathon%20Pfeiffer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathon-pfeiffer-912b71142/)
