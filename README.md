@@ -1,8 +1,19 @@
 # <a href="https://www.linkedin.com/in/jonathon-pfeiffer-912b71142/">Jonathon Pfeiffer</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and enjoy building hands-on projects across vulnerability management, security hardening, threat hunting, and security operations. These projects document practical experience identifying security issues, implementing remediations, and validating security improvements.
+I'm passionate about cybersecurity and enjoy building hands-on projects across vulnerability management, security hardening, governance, risk management, threat hunting, and security operations.
+
+These projects document practical experience identifying cybersecurity risks, assessing security controls, developing remediation strategies, and validating security improvements.
 
 Please feel free to explore the projects below and review the technical work, documentation, and remediation processes.
+
+## 🛡️ Governance, Risk & Compliance (GRC)
+
+- **[NIST CSF 2.0 Cybersecurity Risk Assessment — Oscorp](https://github.com/jonathonpfeiffer/Oscorp-NIST-CSF-2.0-Assessment)**
+  - Conducted a simulated NIST CSF 2.0-aligned cybersecurity risk assessment.
+  - Identified and analyzed seven cybersecurity risk scenarios across governance, IAM, vulnerability management, detection, incident response, third-party risk, and data protection.
+  - Developed a risk register and likelihood × impact scoring matrix.
+  - Prioritized remediation initiatives and created a three-year cybersecurity improvement roadmap.
+  - Produced an executive assessment report, detailed risk analysis, and risk management matrix.
 
 ## ⚠️ Vulnerability Management & Security Hardening Projects
 
@@ -18,7 +29,7 @@ Please feel free to explore the projects below and review the technical work, do
 
 *Threat hunting projects coming soon.*
 
-<hr/>
+---
 
 ## 🤳 Connect With Me
 
