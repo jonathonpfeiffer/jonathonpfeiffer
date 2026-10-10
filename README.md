@@ -8,7 +8,7 @@ Please feel free to explore the projects below and review the technical work, do
 
 ## 🛡️ Governance, Risk & Compliance (GRC)
 
-- **[NIST CSF 2.0 Cybersecurity Risk Assessment — Oscorp](https://github.com/jonathonpfeiffer/Oscorp-NIST-CSF-Assessment/blob/main/README.md)**
+- **[NIST CSF 2.0 Cybersecurity Risk Assessment — Oscorp](https://github.com/jonathonpfeiffer/Oscorp-NIST-CSF-Assessment-Final)**
   - Conducted a simulated NIST CSF 2.0-aligned cybersecurity risk assessment.
   - Identified and analyzed seven cybersecurity risk scenarios across governance, IAM, vulnerability management, detection, incident response, third-party risk, and data protection.
   - Developed a risk register and likelihood × impact scoring matrix.
@@ -17,9 +17,9 @@ Please feel free to explore the projects below and review the technical work, do
 
 ## ⚠️ Vulnerability Management & Security Hardening Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/jonathonpfeiffer/Vulnerability-Managment-Program)**
+- **[Vulnerability Management Program Implementation](https://github.com/jonathonpfeiffer/Vulnerability-Managment-Program-Final)**
 
-- **[Windows 11 DISA STIG Remediation](https://github.com/jonathonpfeiffer/Windows-11-Stig-Remediation)**
+- **[Windows 11 DISA STIG Remediation](https://github.com/jonathonpfeiffer/Windows-11-Stig-Remediation-Final)**
   - Tenable vulnerability scanning and validation
   - PowerShell remediation of 10 Windows 11 DISA STIG findings
   - Manual remediation and verification procedures
