@@ -1,33 +1,41 @@
-# <a href="https://www.linkedin.com/in/jonathon-pfeiffer-912b71142/">Jonathon Pfeiffer</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jonathon-pfeiffer-912b71142/">Jonathon Pfeiffer</a>'s IT & Cybersecurity Portfolio 🔐
 
-I'm passionate about cybersecurity and enjoy building hands-on projects across vulnerability management, security hardening, governance, risk management, threat hunting, and security operations.
+I'm an aspiring cybersecurity professional focused on Governance, Risk & Compliance (GRC), vulnerability management, and security operations.
 
-These projects document practical experience identifying cybersecurity risks, assessing security controls, developing remediation strategies, and validating security improvements.
+Through hands-on projects, I've developed practical experience assessing cybersecurity risks, evaluating security controls, implementing remediation strategies, and documenting technical findings.
 
-Please feel free to explore the projects below and review the technical work, documentation, and remediation processes.
+My portfolio demonstrates both the technical and business-risk perspectives of cybersecurity, from identifying vulnerabilities to developing risk-based remediation roadmaps.
 
 ## 🛡️ Governance, Risk & Compliance (GRC)
 
-- **[NIST CSF 2.0 Cybersecurity Risk Assessment — Oscorp](https://github.com/jonathonpfeiffer/Oscorp-NIST-CSF-Assessment-Final)**
-  - Conducted a simulated NIST CSF 2.0-aligned cybersecurity risk assessment.
-  - Identified and analyzed seven cybersecurity risk scenarios across governance, IAM, vulnerability management, detection, incident response, third-party risk, and data protection.
-  - Developed a risk register and likelihood × impact scoring matrix.
-  - Prioritized remediation initiatives and created a three-year cybersecurity improvement roadmap.
-  - Produced an executive assessment report, detailed risk analysis, and risk management matrix.
+### [NIST CSF 2.0 Cybersecurity Risk Assessment — Oscorp](https://github.com/jonathonpfeiffer/Oscorp-NIST-CSF-Assessment-Final)
 
-## ⚠️ Vulnerability Management & Security Hardening Projects
+Simulated cybersecurity risk assessment of a fictional organization aligned with NIST CSF 2.0.
 
-- **[Vulnerability Management Program Implementation](https://github.com/jonathonpfeiffer/Vulnerability-Managment-Program-Final)**
+- Evaluated cybersecurity control gaps across seven risk scenarios.
+- Developed a risk register using likelihood and impact scoring.
+- Prioritized remediation based on risk exposure, business impact, and implementation considerations.
+- Created an executive assessment report, detailed risk analysis, and three-year cybersecurity improvement roadmap.
 
-- **[Windows 11 DISA STIG Remediation](https://github.com/jonathonpfeiffer/Windows-11-Stig-Remediation-Final)**
-  - Tenable vulnerability scanning and validation
-  - PowerShell remediation of 10 Windows 11 DISA STIG findings
-  - Manual remediation and verification procedures
-  - Before-and-after remediation evidence
+## ⚠️ Vulnerability Management & Security Hardening
+
+### [Vulnerability Management Program Implementation](https://github.com/jonathonpfeiffer/Vulnerability-Managment-Program-Final)
+
+- Conducted vulnerability assessments using Tenable.
+- Analyzed and prioritized identified vulnerabilities.
+- Implemented remediation procedures and performed follow-up validation.
+- Documented findings and remediation results.
+
+### [Windows 11 DISA STIG Remediation](https://github.com/jonathonpfeiffer/Windows-11-Stig-Remediation-Final)
+
+- Assessed Windows 11 security configurations against DISA STIG requirements.
+- Remediated 10 security findings using PowerShell and manual configuration changes.
+- Used Tenable to validate remediation effectiveness.
+- Documented before-and-after results and remediation procedures.
 
 ## 🚨 Threat Hunting & Security Operations
 
-*Threat hunting projects coming soon.*
+*Additional threat hunting and security operations projects are in development.*
 
 ---
 
